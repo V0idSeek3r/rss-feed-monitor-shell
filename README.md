@@ -22,3 +22,5 @@ This tool is ideal for users who need to stay informed about specific topics or 
 
 ## Summary
 This project is a lightweight yet powerful solution for integrating RSS feed monitoring into daily terminal usage.
+
+![image](https://github.com/user-attachments/assets/a6107bb8-3a67-4f8f-95f6-8ba4dab61c15)
